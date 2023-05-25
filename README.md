@@ -1,12 +1,12 @@
 [![MasterHead](https://www.mit.edu/files/images/202211/MIT-Neural-Networks-SL.gif)](https://linktr.ee/rohandawkhar)
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">Data Science | Machine Learning | Deep Learning | NLP | Python</h3>
+<h3 align="center">Open Source | Data Science | Machine Learning | Deep Learning | NLP | Python</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBiMWZjMDIwNzhkODA3NWJkNzZiNTYwOTM1NTEzZTIzNDRlNjAyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachelsout&label=Profile%20views&color=0e75b6&style=flat" alt="sachelsout" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rohan_dawkhar" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_dawkhar?logo=twitter&style=for-the-badge" alt="rohan_dawkhar" /></a> </p>
 
-- 🔭 I’m currently working on [Celebrities Face Clustering](https://github.com/sachelsout/celebrities_face_clustering)
+- 🔭 I’m currently working on contributing in [Ivy](https://github.com/unifyai/ivy) as Open Source Contributor
 
 - 🌱 I’m currently learning **LLM, Open AI's APIs, Streamlit**
 
