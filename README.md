@@ -23,7 +23,8 @@
 ### Blogs posts 📝
 <!-- BLOG-POST-LIST:START -->
 <ul><li><a href="https://rohan-dawkhar.medium.com/the-power-of-gradient-descent-in-machine-learning-169f59ca391e" target="blank">The Power of Gradient Descent in Machine Learning</a></li>
-<li><a href="https://rohan-dawkhar.medium.com/5-minute-guide-how-to-efficiently-limit-ram-usage-on-windows-while-using-docker-9b5fc48bf42d" target="blank">5-Minute Guide: How to Efficiently Limit RAM Usage on Windows while using Docker 🐬</a></li></ul>
+<li><a href="https://rohan-dawkhar.medium.com/5-minute-guide-how-to-efficiently-limit-ram-usage-on-windows-while-using-docker-9b5fc48bf42d" target="blank">5-Minute Guide: How to Efficiently Limit RAM Usage on Windows while using Docker 🐬</a></li>
+<li><a href="https://medium.com/@rohan-dawkhar/the-ultimate-guide-to-setting-up-github-codespaces-for-ivy-resolving-common-issues-aeb60d82cdaf" target="blank">The Ultimate Guide to Setting up GitHub Codespaces for Ivy 🍥: Resolving Common Issues</a></li></ul>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
